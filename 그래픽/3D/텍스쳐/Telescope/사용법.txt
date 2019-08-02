@@ -1,0 +1,1 @@
+telescope1은 망원경 윗쪽 부분이고 telescope2는 망원경 아랫쪽 부분 텍스쳐입니당
